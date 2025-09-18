@@ -1,6 +1,4 @@
-# Portfolio Website - Rahmat
-
-![Portfolio Cover](./assets/images/cover.jpg)
+# Portfolio Website - Rahmatez
 
 A modern, responsive portfolio website built with [Static Framework](https://static.devdojo.com) and styled with Tailwind CSS. This portfolio showcases my projects, experiences, and blog posts in a clean, professional design.
 

@@ -1,38 +1,38 @@
 [
     {
-        "name" : "Tails",
-        "description": "Create websites with Tailwind CSS",
+        "name" : "Portfolio Website",
+        "description": "Personal portfolio built with Static framework",
         "image" : "/assets/images/projects/tails.jpeg",
-        "url" : "https://devdojo.com/tails"
+        "url" : "https://rahmatez.github.io"
     },
     {
-        "name" : "Wave",
-        "description": "Start building the next great SaaS",
+        "name" : "E-Commerce Platform",
+        "description": "Modern e-commerce solution with React",
         "image" : "/assets/images/projects/wave.jpeg",
-        "url" : "https://devdojo.com/wave"
+        "url" : "#"
     },
     {
-        "name" : "Pines",
-        "description": "Alpine and Tailwind UI library",
+        "name" : "Task Management App",
+        "description": "Productive task management with Vue.js",
         "image" : "/assets/images/projects/pines.jpeg",
-        "url" : "https://devdojo.com/pines"
+        "url" : "#"
     },
     {
-        "name" : "DevBlog",
-        "description": "Create a professional dev blog",
+        "name" : "Blog Platform",
+        "description": "Content management system for bloggers",
         "image" : "/assets/images/projects/devblog.jpeg",
-        "url" : "https://devdojo.com/devblog"
+        "url" : "#"
     },
     {
-        "name" : "MarkdownX",
-        "description": "The Markdown Editor of the future",
+        "name" : "Mobile App UI",
+        "description": "Modern mobile application interface",
         "image" : "/assets/images/projects/markdownx.jpeg",
-        "url" : "https://devdojo.com/markdownx"
+        "url" : "#"
     },
     {
-        "name" : "SaaS Adventure",
-        "description": "21-day program for building a SAAS",
+        "name" : "Dashboard Analytics",
+        "description": "Real-time analytics dashboard solution",
         "image" : "/assets/images/projects/saasadventure.jpeg",
-        "url" : "https://saasadventure.io"
+        "url" : "#"
     }
 ]

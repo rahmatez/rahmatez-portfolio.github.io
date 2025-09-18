@@ -38,8 +38,12 @@ jobs:
           cache: 'npm'
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - name: Clear npm cache
+        run: npm cache clean --force
       - name: Run NPM Install
         run: npm install
+      - name: Clean build directory
+        run: rm -rf _site || true
       - name: Run the static build step
         run: npx @devdojo/static@1.0.31 build
       - name: Upload artifact

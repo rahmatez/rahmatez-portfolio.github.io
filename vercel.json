@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npx @devdojo/static@1.0.31 build",
+  "outputDirectory": "_site",
+  "installCommand": "npm install",
+  "framework": null,
+  "functions": {},
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

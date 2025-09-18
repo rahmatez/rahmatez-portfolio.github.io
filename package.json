@@ -1,9 +1,14 @@
 {
-    "name": "Static",
-    "version": "1.0",
-    "description": "Static",
-    "author": "Your Name",
+    "name": "portfolio-static",
+    "version": "1.0.0",
+    "description": "Portfolio website built with Static framework",
+    "author": "Rahmat",
     "license": "ISC",
+    "scripts": {
+        "build": "npx @devdojo/static@1.0.31 build",
+        "dev": "npx @devdojo/static@1.0.31 serve",
+        "start": "npx @devdojo/static@1.0.31 serve"
+    },
     "devDependencies": {
         "@tailwindcss/typography": "^0.5.10"
     }
